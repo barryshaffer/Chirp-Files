@@ -1,4 +1,4 @@
 # Chirp-Files
-Ham Radio programming files
+Amature Radio programming files for HTs   
 
-Repeater listings are for the greater Phoenix Area. 
+Channel list primarily services the Phoenix, East Valley.
