@@ -42,6 +42,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 48,USERY P,147.12,+,0.6,Tone,162.2,88.5,23,NN,FM,5,,Mt. Ord – Rimlink,,,,
 49,RIMLINK,147.14,+,0.6,Tone,162.2,88.5,23,NN,FM,5,,,,,,
 50,MTORD,147.36,+,0.6,Tone,162.2,88.5,23,NN,FM,5,,,,,,
+51,TBIRD,147.04,+,0.6,Tone,162.2,88.5,23,NN,FM,5,,Thunderbird Ham Club – Whitetanks,,,,
 70,70CMCAL,446,-,5,,88.5,88.5,23,NN,FM,5,,National Call Frequency,,,,
 71,SMOUNT,442.55,+,5,Tone,100,88.5,23,NN,FM,5,,Skywarn Sector 2 South Mountain ,,,,
 72,W7MOT,442.975,+,5,Tone,100,88.5,23,NN,FM,5,,Chandler Regional Medical Center,,,,
